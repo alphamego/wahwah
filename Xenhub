@@ -1,5 +1,5 @@
-Bypass ID: e24d5ab3fe70de5cfd0f29a30e72625c5e89082ca107705aa98443b5d25dfee2|Volt|qzl7yjqaqynteujj
-Key: VbRtjIACwwNtJKTKHlAxTHhmIcnEFaJG
+-- Bypass ID: e24d5ab3fe70de5cfd0f29a30e72625c5e89082ca107705aa98443b5d25dfee2|Volt|qzl7yjqaqynteujj
+-- Key: VbRtjIACwwNtJKTKHlAxTHhmIcnEFaJG
 
 getgenv().script_key = "VbRtjIACwwNtJKTKHlAxTHhmIcnEFaJG"
 getgenv().ce_like_loadstring_fn = loadstring
