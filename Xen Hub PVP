@@ -1,0 +1,3 @@
+-- 870c6e6a9521c5281e64599c3f3535b44b2e3256a145c79c15d4a87217145176|Volt|tqyjblqp8ewlylkt
+script_key="GpAiFxQgtVCCAvdyhooQlzXnQyvWBeey";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/8b7d9704553c3207ff729e0e688598c1.lua"))()```
